@@ -5,3 +5,4 @@
 - Luis Ricardo Hernandez Mena - Me gustaria conocer el uso de Repositorios de GitHub porque quiero especializarme en esta herramienta, ya que me ayudaria mucho al desarrollo 
 - Luis Eduardo Neri Concha - Me gustaria conocer mas de Git-Hub para futuros trabajos y tener mas practica en la misma.
 - Armando Beltrán  - Quiero aprender más sobre git y los repositorios en Github, ya que sé es una herramienta sumamente utilizada en el mundo laboral para los trabajos en equipo y el versionamiento de software.
+- Raúl Andrade Estoy aprendiendo GitHub para colaborar con mayor eficiencia en equipo
